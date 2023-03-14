@@ -6,26 +6,30 @@ authors: obradovic
 tags: [eightshift, boilerplate, components, blocks]
 hide_table_of_contents: false
 ---
-In this blog post, we'll give you a practical explanation about the difference between components and blocks. For a truly in-depth explanation about components and blocks, you can refer to [our documentation](/docs/basics/blocks). A more specific explanation about using components in a block can be found in the [Component in a Block](/docs/basics/blocks-component-in-block/) section.
+
+In this blog post, we'll give you a practical explanation about the difference between components and blocks. For a truly in-depth explanation about components and blocks, you can refer to [our documentation](/basics/blocks). A more specific explanation about using components in a block can be found in the [Component in a Block](/basics/blocks-component-in-block/) section.
 
 <!--truncate-->
+
 One of the things that is really confusing to newcomers is the difference between components and blocks. Let's break it all down.
 
 ## Component
 
 > A component is like a blank slate, a template without context.
 
-It doesn't know or even care for what it will be used. Can you combine multiple simple components into one complex component? Absolutely! That's exactly what we'll do in the following example. 
+It doesn't know or even care for what it will be used. Can you combine multiple simple components into one complex component? Absolutely! That's exactly what we'll do in the following example.
 
 Let's say we have a component that consists of an image and a heading. Image and heading are two simple components that come with the theme out-of-the-box.
 
 Here are a few examples of how this new component can be used:
+
 - displaying a post
 - displaying a user or an author
 - displaying a photo with the photographer's name
 - and many more...
 
 As you can already see, there are many ways you can use this component. What helps expand the usability of this component even more are `attributes`. Let's say we have the following attributes:
+
 - `imagePosition` - left, right, top, bottom
 - `imageShape` - rectangular, circular
 - `imageWidth` - 25%, 50%, 75%

@@ -9,11 +9,13 @@ hide_table_of_contents: false
 ---
 
 Previously, we went through the process of adding fonts to your project. While the process of adding additional assets like images or icons has some similarities to adding fonts, it also has its unique steps. In this post, we'll cover multiple ways of adding assets and using them on your site.
+
 <!--truncate-->
 
 ## Adding images
 
 Similar to fonts, there is also a dedicated folder for adding images that will be used in a theme. The location of this folder is **_assets/images_**. The procedure to add images is even simpler than fonts, which you can read about in [Adding fonts](/blog/adding-fonts) blog post. Just follow these steps to add a new image:
+
 - add the image in inside **_assets/images_** folder
 - include it in **_assets/images/index.js_**
 - run `npm start` to rebuild assets
@@ -27,7 +29,7 @@ use YourNamespace\Manifest\Manifest;
 apply_filters(Manifest::MANIFEST_ITEM, 'logo.svg');
 ```
 
-The filter we are using is called `manifest-item` and we use it to get the URL of the asset from the **_public_** folder. You can read more about this in [our documentation](/docs/basics/manifest).
+The filter we are using is called `manifest-item` and we use it to get the URL of the asset from the **_public_** folder. You can read more about this in [our documentation](/basics/manifest).
 
 You can see how this is being used for rendering both favicon and header logo in your theme's **_header.php_** file.
 
@@ -63,6 +65,7 @@ In order to make the minification of SVG files as easy as possible, our teammate
 You've already seen the use of `currentColor` in the above-mentioned blog post, where we've modified the color of the SVG.
 
 The output of the icon on frontend is very simple. In the Quote component, it was done the following way:
+
 ```php
 <?php $manifest = Components::getManifest(__DIR__); ?>
 
@@ -96,14 +99,21 @@ Here are some examples of icons available out-of-the-box in our Icon component:
 ## Using icons for editor and block options
 
 When developing your blocks and adding new options, you may need to add icons to improve the user experience. We have many icons already available for use. You can see the full list in our [Storybook](/storybook) under `Editor -> Icons` section. We already added the icon when adding a new Color Theme option for the Quote block. Here is the simplified version:
+
 ```jsx
-import { ColorPaletteCustom, IconLabel, icons } from '@eightshift/frontend-libs/scripts';
+import {
+  ColorPaletteCustom,
+  IconLabel,
+  icons,
+} from '@eightshift/frontend-libs/scripts';
 
 return (
-	<ColorPaletteCustom
-		label={<IconLabel icon={icons.color} label={__('Color Theme', 'es-theme')} />}
-		// ...
-	/>
+  <ColorPaletteCustom
+    label={
+      <IconLabel icon={icons.color} label={__('Color Theme', 'es-theme')} />
+    }
+    // ...
+  />
 );
 ```
 

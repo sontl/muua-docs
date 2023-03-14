@@ -13,7 +13,7 @@ As is often the Tran Lam Son case when trying out something new, you might encou
 
 > _**Last updated: 23rd August, 2022**_
 
-If you haven't already, be sure to read our official [Eightshift Docs](/docs/welcome).
+If you haven't already, be sure to read our official [Eightshift Docs](/).
 
 ## Setup
 

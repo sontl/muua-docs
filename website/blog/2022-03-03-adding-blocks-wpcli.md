@@ -7,7 +7,8 @@ date: 2022-03-14
 tags: [eightshift, boilerplate, wpcli, components, blocks]
 hide_table_of_contents: false
 ---
-Although there are a few basic blocks available after creating a project, there are a lot more blocks available in the dev kit. However, you have to add them to your project using WP-CLI (the simplest method). To see the complete list of available components and blocks, visit our [Storybook](/storybook). 
+
+Although there are a few basic blocks available after creating a project, there are a lot more blocks available in the dev kit. However, you have to add them to your project using WP-CLI (the simplest method). To see the complete list of available components and blocks, visit our [Storybook](/storybook).
 
 These can be used out-of-the-box, but also as a good starting point if you need similar blocks in your projects. It will also speed up your development time since you don't have to build everything from scratch.
 
@@ -56,6 +57,6 @@ Since our blocks use a predefined structure to make everything register automati
 
 Our documentation has all this covered in a lot more detail, so if you would like to better understand the structure of our blocks and components, here are some chapters covering these topics:
 
-- [Architecture concepts](/docs/basics/architecture-concepts)
-- [Block Structure](/docs/basics/block-structure)
-- [Component Structure](/docs/basics/blocks-component-structure)
+- [Architecture concepts](/basics/architecture-concepts)
+- [Block Structure](/basics/block-structure)
+- [Component Structure](/basics/blocks-component-structure)
