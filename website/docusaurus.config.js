@@ -18,18 +18,18 @@ module.exports = {
   themeConfig: {
     navbar: {
       logo: {
-        alt: 'Eightshift Development kit Logo',
-        src: 'img/eightshift-dev-kit-logo.svg',
+        alt: 'MUUA Logo',
+        src: 'img/muua-logo-text.svg',
       },
       items: [
+        // {
+        //   to: '/get-started',
+        //   activeBasePath: 'pages',
+        //   label: 'Get Started',
+        //   position: 'right',
+        // },
         {
-          to: '/get-started',
-          activeBasePath: 'pages',
-          label: 'Get Started',
-          position: 'right',
-        },
-        {
-          to: 'docs/welcome',
+          to: '/',
           activeBasePath: 'welcome',
           label: 'Docs',
           position: 'right',
