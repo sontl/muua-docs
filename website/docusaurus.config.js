@@ -66,9 +66,9 @@ module.exports = {
       additionalLanguages: ['php'],
     },
     algolia: {
-      appId: 'DEXLLOC66F',
-      apiKey: 'bab3e03585cdba45ac5d3432a6e7f63d',
-      indexName: 'support_blog_muua',
+      appId: 'FWZQ0MX15D',
+      apiKey: 'f8d254a9214aa6dbe7e7c44f111bec77',
+      indexName: 'support-muua-com',
     },
     colorMode: {
       disableSwitch: true,
