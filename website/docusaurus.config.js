@@ -1,12 +1,12 @@
 module.exports = {
-  title: 'Eightshift Development kit',
+  title: 'Trung tâm trợ giúp MUUA',
   tagline:
-    'All the tools you need to start building a modern WordPress project, using all the latest front end development tools.',
-  url: 'https://eightshift.com',
+    'Tư vấn và giải đáp từ đội ngũ MUUA về các vấn đề liên quan đến website, marketing, SEO, ...',
+  url: 'https://muua.com.vn',
   baseUrl: '/',
   favicon: 'img/favicon.png',
-  organizationName: 'infinum',
-  projectName: 'eightshift-docs',
+  organizationName: 'MUUA Co., Ltd',
+  projectName: 'muua-docs',
   staticDirectories: ['static'],
   scripts: [
     {
@@ -20,6 +20,7 @@ module.exports = {
       logo: {
         alt: 'MUUA Logo',
         src: 'img/muua-logo-text.svg',
+        href: 'https://muua.com.vn/landing',
       },
       items: [
         // {
@@ -31,7 +32,7 @@ module.exports = {
         {
           to: '/',
           activeBasePath: 'welcome',
-          label: 'Docs',
+          label: 'Tài liệu',
           position: 'right',
         },
         {
@@ -40,17 +41,23 @@ module.exports = {
           label: 'Blog',
           position: 'right',
         },
+        // {
+        //   to: '/sass',
+        //   activeBasePath: 'sass',
+        //   label: 'Sass',
+        //   position: 'right',
+        // },
+        // {
+        //   to: '/showcase',
+        //   activeBasePath: 'showcase',
+        //   label: 'Showcase',
+        //   position: 'right',
+        // },
         {
-          to: '/sass',
-          activeBasePath: 'sass',
-          label: 'Sass',
+          href: 'https://muua.com.vn',
+          activeBasePath: 'homepage',
           position: 'right',
-        },
-        {
-          to: '/showcase',
-          activeBasePath: 'showcase',
-          label: 'Showcase',
-          position: 'right',
+          label: 'Trang chủ',
         },
       ],
     },
@@ -59,9 +66,9 @@ module.exports = {
       additionalLanguages: ['php'],
     },
     algolia: {
-      appId: 'CWB1S6U3C4',
-      apiKey: 'cbae3fc769aee256328548eff1e91c1c',
-      indexName: 'infinum_eightshift',
+      appId: 'DEXLLOC66F',
+      apiKey: 'bab3e03585cdba45ac5d3432a6e7f63d',
+      indexName: 'support_blog_muua',
     },
     colorMode: {
       disableSwitch: true,
@@ -77,17 +84,16 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         gtag: {
-          trackingID: 'GTM-P5GG5DH',
+          trackingID: 'G-64YRH48GPR',
           anonymizeIP: true,
         },
         theme: {
           customCss: require.resolve('./src/scss/application.scss'),
         },
         blog: {
-          blogTitle: 'Tutorials and articles about Eightshift development kit',
-          blogDescription:
-            'Tutorials and articles about Eightshift development kit',
-          blogSidebarTitle: 'Latest posts',
+          blogTitle: 'Hướng dẫn và bài viết về MUUA',
+          blogDescription: 'Hướng dẫn và bài viết về MUUA',
+          blogSidebarTitle: 'Bài viết mới nhất',
           showReadingTime: true,
           postsPerPage: 6,
         },
@@ -101,12 +107,12 @@ module.exports = {
   plugins: ['docusaurus-plugin-sass'],
   customFields: {
     keywords: [
-      'wordpress tools',
-      'development tools',
-      'wordpress project',
-      'Gutenberg blocks',
-      'development kit',
-      'wordpress kit',
+      'cửa hàng online',
+      'cửa hàng trực tuyến',
+      'bán hàng online',
+      'doanh nghiệp nhỏ',
+      'muua',
+      'doanh nghiệp siêu nhỏ',
     ],
     image: 'img-why-boilerplate@2x.png',
   },
