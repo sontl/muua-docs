@@ -26,7 +26,7 @@ module.exports = {
     },
     algolia: {
       appId: 'FWZQ0MX15D',
-      apiKey: 'f8d254a9214aa6dbe7e7c44f111bec77',
+      apiKey: 'c331f6b3c7aa1872f0fa103b8a66cf5d',
       indexName: 'support-muua-com',
       contextualSearch: true,
     },
@@ -103,8 +103,13 @@ module.exports = {
         //     },
         //   ],
         // },
-        { to: '/docs', label: 'Tài liệu', position: 'right', },
-        { to: '/blog', label: 'Blog', position: 'right', activeBasePath: 'blog', },
+        { to: '/docs', label: 'Tài liệu', position: 'right' },
+        {
+          to: '/blog',
+          label: 'Blog',
+          position: 'right',
+          activeBasePath: 'blog',
+        },
         {
           href: 'https://muua.com.vn',
           activeBasePath: 'homepage',
