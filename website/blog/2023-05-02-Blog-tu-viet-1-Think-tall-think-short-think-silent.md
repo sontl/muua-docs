@@ -1,16 +1,15 @@
 ---
 title: Xu hướng “Think tall, think short, think silent”
-description: Xu hướng “Think tall, think short, think silent”
 slug: xu-huong-think-tall-short-silent
 authors: huetran
 tags: [blog, xu-huong]
 hide_table_of_contents: false
 image: https://i.imgur.com/mErPwqL.png
 ---
-**Bạn có biết? **
 
 Hãy nghĩ tới các khách hàng của mình. Chắc hẳn đa số họ là người trẻ, khi mua hàng, nhận hàng của bạn là đang xem điện thoại?
-<!--truncate-->
+
+![](/img/blog/audit-logs-widget.png)
 
 > _**Last updated: 13rd May, 2023**_
 
