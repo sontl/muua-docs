@@ -13,7 +13,7 @@ image: img/summer-sales-2023.jpeg
 
 Mùa hè đã đến với cái nóng đặc thù và tiếng ve kêu râm ran, khiến ta thèm những ly trà chanh, cốc trà sữa hay cây kem mát lạnh. Mùa hè với Muua cũng gắn với những chuyến đi nghỉ mát cùng gia đình, lên núi cao hay xuống biển. Đây cũng là thời điểm tuyệt vời để bạn tìm ra các ý tưởng để tăng doanh số cho cửa hàng trực tuyến của mình. Hãy cùng Muua khám phá một số ý tưởng hữu ích cho mùa hè 2023 này nhé!
 
-# 1. Lễ tổng kết, bế giảng năm học: 
+## 1. Lễ tổng kết, bế giảng năm học: 
 
 Bạn có thể hợp tác cung cấp khuyến mãi cho các trường học, lớp học, liên hoan tổng kết bằng cách giảm giá hoặc tặng thêm suất, hay combo gói không giới hạn đồ uống, hoặc miễn phí chi phí nào đó chẳng hạn phông tiệc trang trí.
 Ví dụ có nhiều quán ăn giảm 30% cho bàn ăn trưa trong tuần (thứ 2 tới thứ 6). Giảm đồng thời theo số lượng ví dụ cho lớp 20, 30, 40, 50... người.  Cũng có thể theo nhóm ví dụ đi 6 trả tiền 4 hoặc đi nhóm 5 thì miễn phí 2 người. Những khuyến mãi này sẽ thu hút sự quan tâm của các gia đình và học sinh đặc biệt khi kết thúc năm học và bắt đầu nghỉ hè. Học sinh, sinh viên và gia đình có thể đến để ăn mừng một năm học thành công.
