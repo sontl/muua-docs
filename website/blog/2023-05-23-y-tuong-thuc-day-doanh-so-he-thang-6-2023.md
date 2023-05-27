@@ -89,3 +89,6 @@ Bằng cách tận dụng các ngày đặc biệt trong tháng 6, bạn có th�
 # Thành công của bạn là thành công của chúng tôi
 
 Muua tự hào là một công ty luôn đặt doanh nghiệp bản địa lên hàng đầu. Cuối cùng, các bạn là lý do tại sao chúng tôi tồn tại. Chúng tôi đang trong sứ mệnh chuyển đổi số cho các doanh nghiệp trong việc chấp nhận đặt hàng trực tuyến. Nếu bạn sẵn sàng đăng ký thử nghiệm miễn phí, hãy tạo cửa hàng trực tuyến của bạn [tại đây](https://muua.com.vn/), chỉ mất vài phút.
+
+# Nguồn: 
+Bài viết được chuyên gia marketing của Muua tổng hợp và triển khai. Vui lòng ghi rõ nguồn nếu sử dụng lại.
