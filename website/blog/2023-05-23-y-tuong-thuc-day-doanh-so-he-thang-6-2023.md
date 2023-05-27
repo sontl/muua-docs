@@ -7,6 +7,8 @@ hide_table_of_contents: false
 image: img/summer-sales-2023.jpeg
 
 ---
+# Ý tưởng thúc đẩy doanh số hè tháng 6 năm 2023
+
 ![Lịch nghỉ lễ, ngày đặc biệt Tháng 6 năm 2023](../static/img/June%202023.jpeg)
 Có những ngày nào trong tháng 6 là cơ hội để bạn tung các khuyến mãi hoặc cung cấp các dịch vụ đặc biệt cho khách hàng? Hãy để Muua nhắc bạn và đưa một số gợi ý nhé? 
 
