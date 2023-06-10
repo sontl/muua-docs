@@ -56,37 +56,6 @@ const DSync = () => {
         </p>
       </FeatureSection>
 
-      <FeatureSection
-        title="Simple but powerful integration"
-        btnLink="/blog/understanding-scim-and-directory-sync"
-        btnText="Read more"
-        image={Icon2}
-        direction="left"
-      >
-        <p>
-          <p>
-            With our simple integration, you can enable directory sync in your
-            application in days instead of months and seamlessly connect to
-            almost any directory service. With our API you can:
-          </p>
-          <p>
-            <b>Custom Mapping</b>
-            <br></br>
-            Easily fetch in the attributes that you need to use and map them
-            against the data you need.
-            <br></br>
-            <b>Bespoke requests</b>
-            <br></br>
-            Fetch and manipulate data from different entities as you need.
-            <br></br>
-            <b>Streamline Data</b>
-            <br></br>
-            Access data and integrate it seamlessly so you can standardize it
-            across the board
-          </p>
-        </p>
-      </FeatureSection>
-
       <CustomersSection />
 
       <DeveloperCommunitySection />

@@ -137,21 +137,6 @@ const EnterpriseSSO = () => {
         </p>
       </FeatureSection>
 
-      <FeatureSection
-        title="Become enterprise ready"
-        btnLink="/blog/sso-building-blocks"
-        btnText="Read more"
-        image={Icon3}
-        direction="right"
-      >
-        <p>
-          Most enterprises already use an IdP, so they prefer solution providers
-          with an Enterprise SSO integration. This is because they are already
-          using SAML or OpenID Connect for access management and security, so
-          anything outside of this workflow will be inconvenient for them.
-        </p>
-      </FeatureSection>
-
       <CustomersSection />
 
       <BenefitsSection
