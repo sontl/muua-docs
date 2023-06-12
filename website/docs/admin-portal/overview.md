@@ -9,8 +9,6 @@ SAML Jackson comes with an Admin Portal that allows you to manage **Enterprise S
 
 Our future products (where relevant) will also be available in the Admin Portal.
 
-To enable the Admin Portal, make sure you deploy [Jackson as a service](../jackson/deploy/service).
-
 ## Authentication Methods
 
 BoxyHQ SAML Jackson supports multiple authentication methods. You can choose to use any of the following methods to authenticate users to the Admin Portal.

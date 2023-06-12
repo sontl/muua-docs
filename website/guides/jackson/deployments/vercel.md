@@ -15,7 +15,6 @@ If you don’t have a Vercel account, create one [here](https://vercel.com/signu
 - Go to the forked repo and click the **Deploy** button from the README section.
 - Select your username under **GIT SCOPE**.
 - Enter a **name** for your project, choose whether you want your repo `private` or `public`, and click **Create**.
-- Fill the **Environment Variables** as per the [documentation](/docs/jackson/deploy/env-variables).
 - After you've filled everything click the **Deploy** button.
 
 ### Verify deployment

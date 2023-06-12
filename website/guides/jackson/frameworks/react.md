@@ -33,10 +33,6 @@ This step allows your tenants to configure SAML connections for their users. Rea
 
 Once you add a SAML connection, the app can use this SAML connection to initiate the SSO authentication flow using SAML Jackson. The following sections focus more on the SSO authentication side.
 
-### Deploy SAML Jackson
-
-The first step is to deploy the SAML Jackson service. Follow the [deployment docs](/docs/jackson/deploy/service) to install and configure the SAML Jackson.
-
 ### Setup SAML Jackson Integration
 
 We'll use the client library `@bity/oauth2-auth-code-pkce` to implement the authentication process. It is a zero-dependency OAuth 2.0 client implementing the authorization code grant with PKCE for client-side protection.

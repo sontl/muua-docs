@@ -13,23 +13,9 @@ description: Running Locally
 
 `yarn install` or `npm i`
 
-## Set the environment variables
-
-Use `.env` file to set the [Environment Variables](./env-variables).
-
 ## Tools (DBs, queues, etc.)
 
 Make sure the tools configured in `.env` file are up & running.
-
-### [Postgres](./env-variables#postgres-configuration)
-
-### [NSQ](./env-variables#nsqd-configuration)
-
-### [Elasticsearch](./env-variables#elasticsearch-configuration)
-
-### [Supercronic](./env-variables#supercronic-configuration)
-
-### [Redis](./env-variables#redis-configuration)
 
 ## Postgres Migration
 

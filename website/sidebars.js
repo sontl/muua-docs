@@ -3,23 +3,21 @@ module.exports = {
     {
       type: 'doc',
       id: 'index',
-      label: 'Docs',
+      label: 'Tài liệu',
     },
     {
       type: 'category',
-      label: 'Enterprise SSO',
+      label: 'Bắt đầu',
       collapsible: true,
       link: { type: 'doc', id: 'jackson/overview' },
       items: [
         {
           type: 'category',
-          label: 'Deploy',
+          label: 'Các bước đầu tiên',
           items: [
             'jackson/deploy/index',
-            'jackson/deploy/service',
-            'jackson/deploy/npm-library',
-            'jackson/deploy/env-variables',
-            'jackson/deploy/pre-loaded-connections',
+            'jackson/deploy/thiet-lap',
+            'jackson/deploy/cai-dat',
           ],
         },
         {
@@ -104,7 +102,6 @@ module.exports = {
           label: 'Self Hosting',
           link: { type: 'doc', id: 'retraced/self-host/index' },
           items: [
-            'retraced/self-host/env-variables',
             'retraced/self-host/local',
             'retraced/self-host/docker',
             'retraced/self-host/digitalocean',

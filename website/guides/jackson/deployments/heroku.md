@@ -14,7 +14,6 @@ If you don’t have a Heroku account, create one [here](https://signup.heroku.co
 - Fork the the SAML Jackson [GitHub repository](https://github.com/boxyhq/jackson/fork).
 - Go to the forked repo and click the **Deploy to Heroku** button from the README section.
 - Give your new application a **name**.
-- Fill the **Config Vars** as per the [documentation](/docs/jackson/deploy/env-variables).
 - After you've filled everything click the **Deploy app** button.
 
 ### Verify deployment

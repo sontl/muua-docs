@@ -121,13 +121,9 @@ Install `@boxyhq/saml-jackson` first:
 npm i @boxyhq/saml-jackson
 ```
 
-Before you proceed,set up a [database](../../../docs/jackson/deploy/service#database) for jackson. Refer to [db environment variables](../../../docs/jackson/deploy/env-variables#database-configuration) for the npm library options.
-
 ### Setup `JacksonProvider`
 
 app/auth.jackson.server.ts: https://github.com/boxyhq/jackson-remix-auth/blob/main/app/auth.jackson.server.ts
-
-> **NOTE: [clientSecretVerifier](../../../docs/jackson/deploy/env-variables#client_secret_verifier) set below will be matched against client_secret coming from Authenticator &nbsp;**
 
 ```typescript
  const opts =  {

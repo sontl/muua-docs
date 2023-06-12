@@ -1,4 +1,4 @@
-# Service
+# Thiết lập cửa hàng của bạn
 
 ## Health Check
 
@@ -41,8 +41,6 @@ docker run \
   -d boxyhq/jackson
 ```
 
-See the complete list of [Environment Variables](./env-variables.md)
-
 Kubernetes and docker-compose deployment files will be coming soon.
 
 ## Without Docker
@@ -72,8 +70,6 @@ npm install
 ```bash
 cp .env.example .env
 ```
-
-Update `.env` with your values. See the complete list of [Environment Variables](./env-variables.md)
 
 ### Build and run
 

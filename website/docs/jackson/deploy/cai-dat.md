@@ -1,4 +1,4 @@
-# NPM Library
+# Cài đặt Muua trên iOS và Android
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

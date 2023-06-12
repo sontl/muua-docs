@@ -116,16 +116,18 @@ module.exports = {
           position: 'right',
           label: 'Trang chủ',
         },
+        {
+          href: 'https://muua.com.vn/login',
+          activeBasePath: 'login',
+          position: 'right',
+          label: 'Đăng nhập',
+        },
         // { to: '/pricing', label: 'Pricing' },
         // {
         //   label: 'Company',
         //   type: 'dropdown',
         //   position: 'right',
         //   items: [
-        //     {
-        //       to: '/careers',
-        //       label: 'Careers',
-        //     },
         //     {
         //       to: '/team',
         //       label: 'Team',
@@ -147,49 +149,34 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Community',
+          title: 'Mạng xã hội',
           items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/boxyhq',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discord.boxyhq.com',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/boxyhq',
-            },
-          ],
-        },
-        {
-          title: 'Social',
-          items: [
-            {
-              label: 'LinkedIn',
-              href: 'https://www.linkedin.com/company/boxyhq',
-            },
             {
               label: 'Facebook',
-              href: 'https://www.facebook.com/boxyhq',
+              href: 'https://facebook.com/muua.com.vn',
             },
             {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/boxyhq',
+              label: 'Zalo Offical Account',
+              href: 'https://zalo.me/3571147251491377400',
+            },
+            {
+              label: 'Youtube',
+              href: 'https://www.youtube.com/@MuuaOfficial',
             },
           ],
         },
+
         {
-          title: 'Legal',
+          title: 'Quy định',
           items: [
             {
-              label: 'Privacy & Cookies Policy',
-              href: '/privacy.html',
+              label: 'Quy chế',
+              href: 'https://muua.com.vn/privacy',
+              target: '_blank',
             },
             {
-              label: 'Terms',
-              href: '/terms.html',
+              label: 'Chính sách',
+              href: 'https://muua.com.vn/terms',
               target: '_blank',
             },
           ],
@@ -295,10 +282,6 @@ module.exports = {
           {
             from: '/docs/jackson/configure-saml-idp',
             to: '/docs/jackson/sso-providers',
-          },
-          {
-            from: '/docs/jackson/deploy/pre-loaded-configuration',
-            to: '/docs/jackson/deploy/pre-loaded-connections',
           },
         ],
       },
