@@ -182,10 +182,10 @@ module.exports = {
           ],
         },
         {
-          title: 'Company',
+          title: 'Công ty',
           items: [
             {
-              label: 'Team',
+              label: 'Đội ngũ',
               href: '/team',
             },
           ],

@@ -26,19 +26,19 @@ export default function Profile({
               <br />
               <p>
                 <a
-                  href={github ? github : linkedin}
+                  href={github ? github : twitter}
                   target="_blank"
                   rel="nofollow noopener noreferrer"
                 >
-                  {github ? 'GitHub' : 'LinkedIn'}
+                  {github ? 'GitHub' : 'Facebook'}
                 </a>{' '}
                 ·{' '}
                 <a
-                  href={twitter}
+                  href={linkedin ? linkedin : twitter}
                   target="_blank"
                   rel="nofollow noopener noreferrer"
                 >
-                  Twitter
+                  {linkedin ? 'LinkedIn' : 'Facebook'}
                 </a>
               </p>
             </div>
