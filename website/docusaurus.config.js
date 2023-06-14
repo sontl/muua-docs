@@ -207,7 +207,8 @@ module.exports = {
         },
         blog: {
           blogTitle: 'Blog',
-          blogDescription: 'Hướng dẫn và bài viết về Muua',
+          blogDescription:
+            'Chia sẻ tri thức, mẹo hay trong việc phát triển kinh doanh trực tuyến. Những tin tức cập nhật về tính năng mới của Muua và các chương trình khuyến mãi hấp dẫn.',
           blogSidebarTitle: 'Bài viết mới nhất',
           showReadingTime: true,
           feedOptions: {
