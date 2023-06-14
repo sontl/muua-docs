@@ -31,7 +31,7 @@ module.exports = {
       type: 'category',
       label: 'Quản lý Bảng điều khiển',
       collapsible: true,
-      link: { type: 'doc', id: 'directory-sync/overview' },
+      link: { type: 'doc', id: 'bang-dieu-khien/overview' },
       items: [
         {
           type: 'category',

@@ -6,7 +6,7 @@ sidebar_label: Đăng ký trong 9 bước
 
 Bạn sẽ được hướng dẫn qua 9 bước đơn giản để thiết lập trang web của bạn trong thời gian ngắn hơn một phút.
 
-Muua được thiết kế để dễ dàng thiết lập. Hãy bắt đầu ngay!
+Muua được thiết kế để dễ dàng thiết lập. Hãy [bắt đầu ngay](https://muua.com.vn/create)!
 
 ## Bước 1: Nhập tên cửa hàng của bạn
 
