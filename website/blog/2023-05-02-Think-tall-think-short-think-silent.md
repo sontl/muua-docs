@@ -6,6 +6,7 @@ tags: [blog, xu-huong]
 hide_table_of_contents: false
 image: https://i.imgur.com/mErPwqL.png
 ---
+# Xu hướng: Think tall, think short, think silent
 
 Hãy nghĩ tới các khách hàng của mình. Chắc hẳn đa số họ là người trẻ, khi mua hàng, nhận hàng của bạn là đang xem điện thoại?
 
@@ -23,3 +24,10 @@ Cũng vì xu hướng di động mà các khách hàng thường không có th�
 Có bạn nào khi đứng dậy đi vệ sinh cũng mang theo điện thoại như mình không? Và nhiều khi ở những nơi công cộng hoặc trong các khoảnh khắc lướt đó mà mình gặp một video hấp dẫn, bao nhiêu người sẽ mở loa lên để nghe? Đó cũng là lý do các thông điệp quan trọng được chèn rõ trên video và ảnh, hay các video ngắn hay có phụ đề, để người xem có thể vẫn nắm được nội dung cả khi xem tắt tiếng. 
 
 Bạn có đồng ý với ba xu hướng và các quan sát này? Và bạn thấy xu hướng nào sẽ ảnh hưởng nhiều nhất tới shop của bạn? 
+
+# Thành công của bạn là thành công của chúng tôi
+
+Muua tự hào là một công ty luôn đặt doanh nghiệp bản địa lên hàng đầu. Cuối cùng, các bạn là lý do tại sao chúng tôi tồn tại. Chúng tôi đang trong sứ mệnh chuyển đổi số cho các doanh nghiệp trong việc chấp nhận đặt hàng trực tuyến. Nếu bạn sẵn sàng đăng ký thử nghiệm miễn phí, hãy tạo cửa hàng trực tuyến của bạn [tại đây](https://muua.com.vn/), chỉ mất vài phút.
+
+# Nguồn: 
+Bài viết được chuyên gia marketing của Muua tổng hợp và triển khai. Vui lòng ghi rõ nguồn nếu sử dụng lại.
