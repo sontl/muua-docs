@@ -8,4 +8,4 @@ Thực hiện các thay đổi cho cửa hàng và tài khoản Muua của bạn
 
 ## Đơn hàng
 
-1. [Sửa Đơn hàng](don-hang/sua-don-hang.md)
+1. [Sửa Đơn hàng](don-hang/sua-don-hang.mdx)
