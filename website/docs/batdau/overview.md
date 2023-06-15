@@ -7,8 +7,8 @@ title: Bắt đầu
 Học cách thiết lập cửa hàng cơ bản với Muua:
 
 - [Đăng ký trong 9 bước](cac-buoc-dau-tien/chin-buoc.md)
-- [Thiết lập cửa hàng Cococart của bạn.](cac-buoc-dau-tien/thiet-lap.md)
-- [Cài đặt Cococart trên iOS và Android.](cac-buoc-dau-tien/cai-dat.md)
+- [Thiết lập cửa hàng Muua của bạn.](cac-buoc-dau-tien/thiet-lap.md)
+- [Cài đặt Muua trên iOS và Android.](cac-buoc-dau-tien/cai-dat.md)
 
 ### Hỏi đáp
 

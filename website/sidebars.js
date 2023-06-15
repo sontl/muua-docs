@@ -37,8 +37,7 @@ module.exports = {
           type: 'category',
           label: 'Đơn hàng',
           collapsible: true,
-          link: { type: 'doc', id: 'directory-sync/providers/index' },
-          items: ['directory-sync/providers/azure'],
+          items: ['bang-dieu-khien/don-hang/sua-don-hang'],
         },
         {
           type: 'category',
