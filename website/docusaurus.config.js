@@ -12,12 +12,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'Muua', // Usually your GitHub org/user name.
   projectName: 'website', // Usually your repo name.
-  scripts: [
-    {
-      src: 'https://cmp.osano.com/AzZmS3ThCRCMI2px/68af2db5-9186-4141-9931-794300971dc3/osano.js',
-      defer: true,
-    },
-  ],
+  scripts: [],
   // stylesheets: ['styles/dark-mode.css'],
   themeConfig: {
     prism: {
@@ -229,7 +224,7 @@ module.exports = {
     [
       require.resolve('docusaurus-gtm-plugin'),
       {
-        id: 'GTM-N9999D3', // GTM Container ID
+        id: 'GTM-WS76HGJ', // GTM Container ID
       },
     ],
     [
