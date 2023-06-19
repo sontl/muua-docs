@@ -7,7 +7,7 @@ import ReactPlayer from 'react-player';
 <ReactPlayer
      playing
      controls
-     url="https://youtu.be/Ap_1xCdYiZw"
+     url="https://youtu.be/NebtfjrZs1Q"
      width="100%"
    />
 

@@ -2,6 +2,15 @@
 
 Thiết lập cửa hàng Muua của bạn trong 4 bước dễ dàng.
 
+import ReactPlayer from 'react-player';
+
+<ReactPlayer
+     playing
+     controls
+     url="https://youtu.be/edGzNFBtN0w"
+     width="100%"
+   />
+
 ## Bước 1: Thêm Sản phẩm
 
 Khi bạn đăng nhập vào bảng điều khiển Muua của mình, điều hướng đến mục [`Sản phẩm > Danh sách`](https://muua.com.vn/main/products) trên thanh menu bên trái và tiếp tục [`Tạo sản phẩm`](https://muua.com.vn/main/products/create) vào cửa hàng của bạn.
