@@ -117,26 +117,6 @@ const EnterpriseSSO = () => {
         </p>
       </FeatureSection>
 
-      <FeatureSection
-        title="Reduce development time"
-        btnLink="https://meetings.hubspot.com/deepakprab/demo?__hstc=213510283.9a563789bb583fca1e9fb20a629c5c94.1651597904536.1664893584285.1664895920328.169&__hssc=213510283.1.1664895920328&__hsfp=498882655"
-        btnText="Book a demo"
-        image={Icon2}
-        direction="left"
-      >
-        <p>
-          Creating a custom SAML or OpenID Connect integration for each IdP can
-          be very time-consuming and require a significant amount of resources.
-          This can lead to months of development time spent building custom
-          integrations for each IdP your customers use.
-        </p>
-        <p>
-          Our SSO solution allows you to go from the first line of code to
-          deployment in just a few days, saving you time and effort. Plus, we
-          offer custom integration support to help you every step of the way.{' '}
-        </p>
-      </FeatureSection>
-
       <CustomersSection />
 
       <BenefitsSection

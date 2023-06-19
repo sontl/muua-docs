@@ -23,20 +23,6 @@ const Icon2 =
 const PrivacyVault = () => {
   return (
     <Layout title={title} description={description}>
-      <HeroSection
-        title={title}
-        description={description}
-        image="/img/products/privacy-vault/vault.svg"
-        icon={ProductIcon}
-        buttons={[
-          {
-            title: 'Book an exploration call',
-            href: 'https://meetings.hubspot.com/deepakprab/demo?__hstc=213510283.9a563789bb583fca1e9fb20a629c5c94.1651597904536.1664893584285.1664895920328.169&__hssc=213510283.1.1664895920328&__hsfp=498882655',
-            className: 'button--primary',
-          },
-        ]}
-      />
-
       <FeatureSection
         title="The Problem"
         btnLink="mailto:hello@boxyhq.com?subject=Privacy Vault Beta"
@@ -94,27 +80,6 @@ const PrivacyVault = () => {
           </div>
         </div>
       </SectionLayout>
-
-      <FeatureSection
-        title="Benefits"
-        btnLink="https://meetings.hubspot.com/deepakprab/demo?__hstc=213510283.9a563789bb583fca1e9fb20a629c5c94.1651597904536.1664893584285.1664895920328.169&__hssc=213510283.1.1664895920328&__hsfp=498882655"
-        btnText="Speak to an expert"
-        image={Icon2}
-        direction="left"
-      >
-        <p>
-          By using a privacy vault even if you were attacked the hacker would
-          only gain access to opaque identifiers. The hacker would have then to
-          attach both your vault and your key store to successfully decrypt the
-          opaque tokens they possess.
-        </p>
-        <p>
-          Apart from this, you get full governance over who has access to the
-          sensitive data and for how long, this simplifies all sorts of
-          compliance certifications and regulations like GDPR, PCI, HIPAA, ISO
-          27001, SOC2, etc.
-        </p>
-      </FeatureSection>
 
       <CustomersSection />
 

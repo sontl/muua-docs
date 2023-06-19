@@ -40,22 +40,6 @@ const DSync = () => {
         ]}
       />
 
-      <FeatureSection
-        title="Give enterprises the user lifecycle management they need"
-        btnLink="https://meetings.hubspot.com/deepakprab/demo?__hstc=213510283.9a563789bb583fca1e9fb20a629c5c94.1651597904536.1664893584285.1664895920328.169&__hssc=213510283.1.1664895920328&__hsfp=498882655"
-        btnText="Book an exploratory call"
-        image={Icon1}
-        direction="right"
-      >
-        <p>
-          Enterprise customers already use directories to manage user access. By
-          allowing them to use their active directory in your product you enable
-          them to have higher security standards and centrally manage their
-          user's access lifecycle. With Directory Sync by BoxyHQ, you can enable
-          this with our simple API.
-        </p>
-      </FeatureSection>
-
       <CustomersSection />
 
       <DeveloperCommunitySection />

@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import Layout from '@theme/Layout';
 
-import { Modal } from '../components/Modal';
-import { HubSpotPricingContactForm } from '../components/HubSpotForm';
 import { PricingSectionDesktop } from '../components/Pricing/PricingSectionDesktop';
 import { PricingSectionMobile } from '../components/Pricing/PricingSectionMobile';
 
@@ -28,9 +26,6 @@ const Pricing = () => {
         <PricingSectionDesktop setOpened={setOpened} setFormId={setFormId} />
         <PricingSectionMobile setOpened={setOpened} setFormId={setFormId} />
       </div>
-      <Modal title="Contact Us" opened={opened} setOpened={setOpened}>
-        <HubSpotPricingContactForm formId={formId} />
-      </Modal>
     </Layout>
   );
 };
