@@ -56,33 +56,10 @@ module.exports = {
       },
       items: [
         // {
-        //   label: 'Products',
-        //   type: 'dropdown',
-        //   items: [
-        //     {
-        //       to: '/enterprise-sso',
-        //       label: 'Enterprise SSO',
-        //     },
-        //     {
-        //       to: '/directory-sync',
-        //       label: 'Directory Sync',
-        //     },
-        //     {
-        //       to: '/audit-logs',
-        //       label: 'Audit Logs',
-        //     },
-        //     {
-        //       to: '/privacy-vault',
-        //       label: 'Privacy Vault',
-        //     },
-        //   ],
-        // },
-        // {
         //   label: 'Developers',
         //   type: 'dropdown',
         //   items: [
         //     { to: '/docs', label: 'Docs' },
-        //     { to: '/guides', label: 'Guides' },
         //     { to: '/enterprise-readiness', label: 'Enterprise Readiness' },
         //     {
         //       href: 'https://mocksaml.com',
@@ -227,59 +204,12 @@ module.exports = {
         id: 'GTM-WS76HGJ', // GTM Container ID
       },
     ],
-    [
-      '@docusaurus/plugin-content-blog',
-      {
-        /**
-         * Required for any multi-instance plugin
-         */
-        id: 'careers',
-        /**
-         * URL route for the blog section of your site.
-         * *DO NOT* include a trailing slash.
-         */
-        routeBasePath: 'careers',
-        /**
-         * Path to data on filesystem relative to site dir.
-         */
-        path: './careers',
-        blogTitle: 'Careers',
-        blogDescription:
-          'Join us on our mission to help startups simplify the development of compliance and data security-related features in their products. Check out our open roles.',
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'guides',
-        path: 'guides',
-        routeBasePath: 'guides',
-        sidebarPath: require.resolve('./sidebars_guides.js'),
-      },
-    ],
     // ['@cmfcmf/docusaurus-search-local', {}],
     require.resolve('docusaurus-plugin-image-zoom'),
     [
       '@docusaurus/plugin-client-redirects',
       {
-        redirects: [
-          {
-            from: '/docs/jackson/admin-ui',
-            to: '/docs/admin-portal/enterprise-sso',
-          },
-          {
-            from: '/docs/directory-sync/admin-ui',
-            to: '/docs/admin-portal/directory-sync',
-          },
-          {
-            from: '/docs/jackson/saml-flow',
-            to: '/docs/jackson/sso-flow',
-          },
-          {
-            from: '/docs/jackson/configure-saml-idp',
-            to: '/docs/jackson/sso-providers',
-          },
-        ],
+        redirects: [],
       },
     ],
   ],

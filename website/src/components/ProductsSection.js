@@ -8,28 +8,28 @@ const products = [
     title: 'Enterprise SSO',
     description:
       'Add single sign on authentication into your product. Supports most identity providers via SAML 2.0',
-    url: '/enterprise-sso',
+    url: '#',
     icon: require('../../static/img/products/saml-jackson/logo.svg').default,
   },
   {
     title: 'Directory Sync',
     description:
       'Add Directory Sync support into your product to provision and de-provision users.',
-    url: '/directory-sync',
+    url: '#',
     icon: require('../../static/img/products/dsync/logo.svg').default,
   },
   {
     title: 'Audit Logs',
     description:
       'Add audit logs into your product with ease. Allow your customers to send security related events to their SIEM.',
-    url: 'audit-logs',
+    url: '#',
     icon: require('../../static/img/products/audit-logs/logo.svg').default,
   },
   {
     title: 'Privacy Vault',
     description:
       'Protect your customers sensitive data by safely encrypting it in a Privacy vault. Add policies to govern access to the protected data.',
-    url: 'privacy-vault',
+    url: '#',
     icon: require('../../static/img/products/privacy-vault/logo.svg').default,
   },
 ];

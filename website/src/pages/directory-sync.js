@@ -34,7 +34,7 @@ const DSync = () => {
           },
           {
             title: 'View docs',
-            href: '/docs/directory-sync/overview',
+            href: '#',
             className: 'button--primary button--outline',
           },
         ]}

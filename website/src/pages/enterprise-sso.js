@@ -101,7 +101,7 @@ const EnterpriseSSO = () => {
 
       <FeatureSection
         title="Effortless integration"
-        btnLink="/docs/jackson/overview"
+        btnLink="#"
         btnText="View docs"
         image={Icon1}
         direction="right"
